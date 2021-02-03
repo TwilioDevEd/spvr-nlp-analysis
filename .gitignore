@@ -1,0 +1,8 @@
+.vscode
+node_modules
+dist
+*.log
+yarn.lock
+src/server/recordings/**
+!src/server/recordings/**/.gitkeep
+package-lock.json

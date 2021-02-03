@@ -1,0 +1,23 @@
+{
+  "accountSid": "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "apiVersion": "2010-04-01",
+  "callSid": "CA333333333333333333333333333333333",
+  "conferenceSid": null,
+  "dateCreated": "2021-01-19T22:05:30.000Z",
+  "dateUpdated": "2021-01-19T22:05:59.000Z",
+  "startTime": "2021-01-19T22:05:30.000Z",
+  "duration": "27",
+  "sid": "RE22222222222222222222222222222222",
+  "price": "-0.00250",
+  "priceUnit": "USD",
+  "status": "completed",
+  "channels": 1,
+  "source": "DialVerb",
+  "errorCode": null,
+  "uri": "",
+  "encryptionDetails": null,
+  "subresourceUris": {
+    "add_on_results": "",
+    "transcriptions": "/"
+  }
+}
