@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "draft-js": "^0.11.7",
     "express": "^4.17.1",
-    "ibm-cloud-env": "^0.2.7",
+    "ibm-cloud-env": "^0.3.0",
     "ibm-watson": "^6.0.2",
     "mui-rte": "^1.26.2",
     "react": "^17.0.1",
