@@ -23,7 +23,7 @@
     "draft-js": "^0.11.7",
     "express": "^4.17.1",
     "ibm-cloud-env": "^0.2.7",
-    "ibm-watson": "^6.0.2",
+    "ibm-watson": "^7.2.0",
     "mui-rte": "^1.26.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
