@@ -30,7 +30,7 @@
     "react-hook-form": "^6.14.1",
     "react-json-view": "^1.19.1",
     "twilio": "^3.55.0",
-    "twilio-sync": "^0.13.0",
+    "twilio-sync": "^2.0.0",
     "wavesurfer.js": "^4.3.0"
   },
   "devDependencies": {
